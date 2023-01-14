@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\9phoe\Documents\programming\cpp\numberguessing\numberguessing\main.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  numberguessing.vcxproj -> C:\Users\9phoe\Documents\programming\cpp\numberguessing\x64\Debug\numberguessing.exe
